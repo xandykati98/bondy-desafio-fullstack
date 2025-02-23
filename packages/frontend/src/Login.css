@@ -1,0 +1,25 @@
+
+#logo-curved-bottom-left {
+  position: relative;
+  background: white;
+  padding: 1rem;
+}
+
+#logo-curved-bottom-left::before, #logo-curved-bottom-left::after {
+  --size: 0.5rem;
+  width: var(--size);
+  height: var(--size);
+  background: radial-gradient(circle at bottom right, transparent var(--size), white var(--size));
+  content: '';
+  position: absolute;
+}
+
+#logo-curved-bottom-left::after {
+  top: 100%;
+  left: 0;
+}
+
+#logo-curved-bottom-left::before {
+  top: 0;
+  left: 100%;
+}
