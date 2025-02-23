@@ -1,5 +1,3 @@
-
-
 # Bondy Fullstack Challenge
 
 ## Preview
@@ -16,7 +14,7 @@
 
 Decidi usar typescript com react + tailwind (com a cdn por simplicidade) com o apollo client para o front end.
 
-Criei unit tests no backend pra verificar a logica das mutations criadas (login e mutationTest). 
+Criei unit tests no backend pra verificar a logica das mutations criadas (login e mutationTest).
 
 `yarn lerna run test --scope=backend`
 
@@ -35,7 +33,10 @@ Para rodar o projeto:
 Credenciais corretas:
 desafio@bondy.com.br 123456
 
-### Contato: 
+### Contato:
+
+Alexandre dos Santos Pereira
+
 xandykati98@gmail.com
 
 +55 (51) 99840-0251
