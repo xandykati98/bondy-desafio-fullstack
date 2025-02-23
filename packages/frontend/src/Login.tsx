@@ -79,7 +79,7 @@ const Login: React.FC = () => {
         <div className="relative z-20 mt-auto p-2">
           <blockquote className="space-y-2">
             <p className="text-lg">
-              "O Orange revolucionou a gestão da minha clínica odontológica. Agora consigo
+              "A Bondy revolucionou a gestão da minha clínica odontológica. Agora consigo
               gerenciar pacientes, agenda e procedimentos de forma muito mais eficiente e
               integrada."
             </p>
